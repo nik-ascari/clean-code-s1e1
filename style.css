@@ -95,6 +95,9 @@ input[type="text"]:focus {
   display: block;
   margin: 0 0 20px;
 }
+.add-element-block__input-wrap {
+  padding-top:20px;
+}
 .add-element-block__input {
   width: 318px;
 }
