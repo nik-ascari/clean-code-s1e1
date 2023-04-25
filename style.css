@@ -145,7 +145,7 @@ ul li input[type=text] {
 
 ul li.tasks-list__item--in-progress input[type=text] {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 ul li.tasks-list__item--in-progress label {
